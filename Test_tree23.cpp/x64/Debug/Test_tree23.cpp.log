@@ -1,0 +1,21 @@
+﻿  Test_tree23.cpp.cpp
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(18,30): warning C4293: '<<': shift count negative or too big, undefined behavior
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(63,19): warning C4244: 'argument': conversion from 'INT_64' to 'int', possible loss of data
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(65,18): warning C4244: 'argument': conversion from 'INT_64' to 'int', possible loss of data
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(76,26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(121,30): warning C4101: 'exception': unreferenced local variable
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(125,30): warning C4101: 'exception': unreferenced local variable
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(129,30): warning C4101: 'exception': unreferenced local variable
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(137,30): warning C4101: 'exception': unreferenced local variable
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(143,30): warning C4101: 'exception': unreferenced local variable
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(148,30): warning C4101: 'exception': unreferenced local variable
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(204,21): warning C4244: 'initializing': conversion from 'INT_64' to 'int', possible loss of data
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(216,30): warning C4244: '=': conversion from 'INT_64' to 'int', possible loss of data
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(230,21): warning C4244: 'initializing': conversion from 'INT_64' to 'int', possible loss of data
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(209,30): warning C4101: 'exception': unreferenced local variable
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(213,30): warning C4101: 'exception': unreferenced local variable
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(219,30): warning C4101: 'exception': unreferenced local variable
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(227,30): warning C4101: 'exception': unreferenced local variable
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(234,30): warning C4101: 'exception': unreferenced local variable
+C:\Users\suda_\source\repos\Test_tree23.cpp\Test_tree23.cpp.cpp(239,30): warning C4101: 'exception': unreferenced local variable
+  Test_tree23.cpp.vcxproj -> C:\Users\suda_\source\repos\Test_tree23.cpp\x64\Debug\Test_tree23.cpp.exe
