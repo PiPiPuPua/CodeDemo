@@ -1,0 +1,15 @@
+﻿  host.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+C:\Users\suda_\source\repos\OpenCl_Lab\host.cpp(192,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+C:\Users\suda_\source\repos\OpenCl_Lab\host.cpp(192,9): message : consider using '%zu' in the format string
+C:\Users\suda_\source\repos\OpenCl_Lab\host.cpp(192,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+C:\Users\suda_\source\repos\OpenCl_Lab\host.cpp(192,9): message : consider using '%zu' in the format string
+C:\Users\suda_\source\repos\OpenCl_Lab\host.cpp(192,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 3 has type 'size_t'
+C:\Users\suda_\source\repos\OpenCl_Lab\host.cpp(192,9): message : consider using '%zu' in the format string
+C:\Users\suda_\source\repos\OpenCl_Lab\host.cpp(99,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\suda_\source\repos\OpenCl_Lab\host.cpp(106,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\suda_\source\repos\OpenCl_Lab\host.cpp(108,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\suda_\source\repos\OpenCl_Lab\host.cpp(128,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\suda_\source\repos\OpenCl_Lab\host.cpp(197,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\suda_\source\repos\OpenCl_Lab\host.cpp(229,18): warning C4996: 'clCreateCommandQueue': was declared deprecated
+  OpenCl_Lab.vcxproj -> C:\Users\suda_\source\repos\OpenCl_Lab\x64\Debug\OpenCl_Lab.exe

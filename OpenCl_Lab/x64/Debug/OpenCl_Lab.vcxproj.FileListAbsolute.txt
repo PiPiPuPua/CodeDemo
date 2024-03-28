@@ -1,0 +1,3 @@
+C:\Users\suda_\source\repos\OpenCl_Lab\x64\Debug\OpenCl_Lab.vcxproj.CopyComplete
+C:\Users\suda_\source\repos\OpenCl_Lab\x64\Debug\OpenCl_Lab.exe
+C:\Users\suda_\source\repos\OpenCl_Lab\x64\Debug\OpenCL.dll

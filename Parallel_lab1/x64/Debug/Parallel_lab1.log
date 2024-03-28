@@ -1,0 +1,4 @@
+﻿  Parallel_lab1.cpp
+C:\Users\suda_\source\repos\Parallel_lab1\Parallel_lab1.cpp(117,29): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\Parallel_lab1\Parallel_lab1.cpp(118,31): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
+  Parallel_lab1.vcxproj -> C:\Users\suda_\source\repos\Parallel_lab1\x64\Debug\Parallel_lab1.exe
