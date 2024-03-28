@@ -1,0 +1,159 @@
+﻿  AISD_RGR_Panin_3_3.cpp
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(354): message : while compiling class template member function 'EdgeT *GraphListForm<EdgeT>::getEdge(int,int)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(188): message : see reference to class template instantiation 'GraphListForm<EdgeT>' being compiled
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\AISD_RGR_Panin_3_3.cpp(90): message : see reference to class template instantiation 'Graph<TVertex,TEdge>::EdgeIterator' being compiled
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(342,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(341): message : while compiling class template member function 'bool GraphListForm<EdgeT>::hasEdge(int,int)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(318,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(317): message : while compiling class template member function 'int GraphListForm<EdgeT>::DeleteEsFromVertex(int,bool)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(304,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(303): message : while compiling class template member function 'bool GraphListForm<EdgeT>::DeleteEdge(int,int)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(290,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(289): message : while compiling class template member function 'bool GraphListForm<EdgeT>::InsertEdge(int,int,EdgeT *)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(269,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(268): message : while compiling class template member function 'bool GraphListForm<EdgeT>::DeleteVertex(int)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(254,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(253): message : while compiling class template member function 'bool GraphListForm<EdgeT>::InsertVertex(int)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(97,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(96): message : while compiling class template member function 'EdgeT *GraphMatrixForm<EdgeT>::getEdge(int,int)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(187): message : see reference to class template instantiation 'GraphMatrixForm<EdgeT>' being compiled
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(87,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(86): message : while compiling class template member function 'bool GraphMatrixForm<EdgeT>::hasEdge(int,int)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(66,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(65): message : while compiling class template member function 'int GraphMatrixForm<EdgeT>::DeleteEsFromVertex(int,bool)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(58,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(57): message : while compiling class template member function 'bool GraphMatrixForm<EdgeT>::DeleteEdge(int,int)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(50,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(49): message : while compiling class template member function 'bool GraphMatrixForm<EdgeT>::InsertEdge(int,int,EdgeT *)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(39,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(38): message : while compiling class template member function 'bool GraphMatrixForm<EdgeT>::DeleteVertex(int)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(26,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(24): message : while compiling class template member function 'bool GraphMatrixForm<EdgeT>::InsertVertex(int)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(113,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(111): message : while compiling class template member function 'bool Graph<TVertex,TEdge>::VertexIterator::toend(void)'
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\AISD_RGR_Panin_3_3.cpp(411): message : see reference to function template instantiation 'bool Graph<TVertex,TEdge>::VertexIterator::toend(void)' being compiled
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\AISD_RGR_Panin_3_3.cpp(88): message : see reference to class template instantiation 'Graph<TVertex,TEdge>::VertexIterator' being compiled
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(133,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(132): message : while compiling class template member function 'bool GraphMatrixForm<EdgeT>::EdgeIterator::toend(void)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(231): message : see reference to function template instantiation 'bool GraphMatrixForm<EdgeT>::EdgeIterator::toend(void)' being compiled
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(231): message : see reference to class template instantiation 'GraphMatrixForm<EdgeT>::EdgeIterator' being compiled
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(229): message : while compiling class template member function 'bool Graph<TVertex,TEdge>::EdgeIterator::toend(void)'
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\AISD_RGR_Panin_3_3.cpp(481): message : see reference to function template instantiation 'bool Graph<TVertex,TEdge>::EdgeIterator::toend(void)' being compiled
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(134,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(199,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(198): message : while compiling class template member function 'bool GraphMatrixForm<EdgeT>::OutputEdgeIterator::toend(void)'
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(345): message : see reference to function template instantiation 'bool GraphMatrixForm<EdgeT>::OutputEdgeIterator::toend(void)' being compiled
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(345): message : see reference to class template instantiation 'GraphMatrixForm<EdgeT>::OutputEdgeIterator' being compiled
+          with
+          [
+              EdgeT=TEdge
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(343): message : while compiling class template member function 'bool Graph<TVertex,TEdge>::OutputEdgeIterator::toend(void)'
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\AISD_RGR_Panin_3_3.cpp(566): message : see reference to function template instantiation 'bool Graph<TVertex,TEdge>::OutputEdgeIterator::toend(void)' being compiled
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\AISD_RGR_Panin_3_3.cpp(92): message : see reference to class template instantiation 'Graph<TVertex,TEdge>::OutputEdgeIterator' being compiled
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(561,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(560): message : while compiling class template member function 'int Graph<TVertex,TEdge>::VertexSize(void)'
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\AISD_RGR_Panin_3_3.cpp(190): message : see reference to function template instantiation 'int Graph<TVertex,TEdge>::VertexSize(void)' being compiled
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Classification.h(44): message : see reference to class template instantiation 'Graph<TVertex,TEdge>' being compiled
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Classification.h(151): message : see reference to class template instantiation 'Classification<VertexT,EdgeT>' being compiled
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(581,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(580): message : while compiling class template member function 'double Graph<TVertex,TEdge>::K(void)'
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\AISD_RGR_Panin_3_3.cpp(211): message : see reference to function template instantiation 'double Graph<TVertex,TEdge>::K(void)' being compiled
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(624,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\Graph.h(622): message : while compiling class template member function 'Vertex *Graph<Vertex,TEdge>::InsertVertex(void)'
+          with
+          [
+              Vertex=TVertex
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\AISD_RGR_Panin_3_3.cpp(254): message : see reference to function template instantiation 'Vertex *Graph<Vertex,TEdge>::InsertVertex(void)' being compiled
+          with
+          [
+              Vertex=TVertex
+          ]
+C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\GraphForm.h(410): warning C4715: 'GraphListForm<Edge<Vertex<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,int>,int> >::EdgeIterator::toend': not all control paths return a value
+  AISD_RGR_Panin_3_3.vcxproj -> C:\Users\suda_\source\repos\AISD_RGR_Panin_3_3\x64\Debug\AISD_RGR_Panin_3_3.exe
